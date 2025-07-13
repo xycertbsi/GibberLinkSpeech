@@ -7,6 +7,6 @@
 ## commands:
 **to install pyaudio and ggwave:**
 
-    py -3.9 -m pip install pyaudio
+    py -3.9 -m pip install pyaudio ggwave
 
 ##### done? *idk**
